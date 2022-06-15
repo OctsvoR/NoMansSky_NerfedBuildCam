@@ -1,5 +1,5 @@
 [VERSION]: MBINCompiler v3.91.0.1
-[ARGS]: "D:\nmsmodding\mbincompiler390\GCCAMERAGLOBALS.GLOBAL.EXML"
+[ARGS]: "D:\nmsmodding\NoMansSky_NerfedBuildCam\GCCAMERAGLOBALS.GLOBAL.EXML"
 
 If you encounter any errors, please submit a bug report and include this log file.
 Please check that there isn't already a similar issue open before creating a new one.
@@ -7,8 +7,8 @@ https://github.com/monkeyman192/MBINCompiler/issues
 
 [INFO]: Auto-Detected --input-format=EXML
 [INFO]: --input-format=EXML --output-format=MBIN
-[INFO]: D:\nmsmodding\mbincompiler390\GCCAMERAGLOBALS.GLOBAL.EXML
+[INFO]: D:\nmsmodding\NoMansSky_NerfedBuildCam\GCCAMERAGLOBALS.GLOBAL.EXML
 
 [INFO]: 1 files converted.
 
-[INFO]: TIME: 0.338 seconds
+[INFO]: TIME: 0.164 seconds
