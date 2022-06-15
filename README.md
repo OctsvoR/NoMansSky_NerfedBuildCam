@@ -1,4 +1,4 @@
-# No Man's Sky Mod - Nerfe Build Cam
+# No Man's Sky Nerfed Build Cam Mod
 
 Features:
 - Reduces the build camera movement speed.
