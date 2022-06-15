@@ -3377,13 +3377,13 @@
   <Property name="ThirdPersonOffsetSpringTime" value="0.5" />
   <Property name="MaxBob" value="False" />
   <Property name="PhotoModeVelocitySmoothTime" value="0.5" />
-  <Property name="PhotoModeMoveSpeed" value="11" />
+  <Property name="PhotoModeMoveSpeed" value="5" />
   <Property name="PhotoModeTurnSpeed" value="60" />
   <Property name="PhotoModeMaxDistance" value="150" />
   <Property name="PhotoModeMaxDistanceSpace" value="200" />
   <Property name="PhotoModeMaxDistanceClampForce" value="3.5" />
   <Property name="PhotoModeMaxDistanceClampBuffer" value="4.5" />
-  <Property name="PhotoModeCollisionRadius" value="0.5" />
+  <Property name="PhotoModeCollisionRadius" value="0.0" />
   <Property name="PhotoModeRollSpeed" value="45" />
   <Property name="PhotoModeFlashDuration" value="0.5" />
   <Property name="PhotoModeFlashIntensity" value="0.5" />
