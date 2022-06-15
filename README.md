@@ -1,7 +1,5 @@
-# NoMansSky_NerfedBuildCam
-
-### No Man's Sky Mod - Nerfed Build Cam.
+# No Man's Sky Mod - Nerfe Build Cam
 
 Features:
-- Reduces build camera movement speed.
-- Reduces build camera collision radius.
+- Reduces the build camera movement speed.
+- Reduces the build camera collision radius.
