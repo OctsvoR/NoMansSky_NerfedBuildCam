@@ -5,3 +5,6 @@
 **Features:**
 - Reduces the build camera movement speed.
 - Reduces the build camera collision radius.
+
+**Current Release:**
+v1.0.0 - 3.91 Leviathan
