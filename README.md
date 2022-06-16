@@ -6,5 +6,5 @@
 - Reduces the build camera movement speed.
 - Reduces the build camera collision radius.
 
-**Current Release:**
+**Latest Release:**
 [v1.0.0 - 3.91 Leviathan](https://github.com/OctsvoR/NoMansSky_NerfedBuildCam/releases/download/release/NerfedBuildCam.pak)
