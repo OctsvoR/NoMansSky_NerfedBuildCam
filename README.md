@@ -1,6 +1,6 @@
 # No Man's Sky "Nerfed Build Cam" Mod
 
-### Nerfs the overpowered build camera.
+### Nerfs the overpowered build camera. It's was way too fucking fast!
 
 **Features:**
 - Reduces the build camera movement speed.
