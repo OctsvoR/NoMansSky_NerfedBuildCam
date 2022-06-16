@@ -7,4 +7,4 @@
 - Reduces the build camera collision radius.
 
 **Current Release:**
-v1.0.0 - 3.91 Leviathan [GitHub Pages](https://pages.github.com/)
+[v1.0.0 - 3.91 Leviathan](https://github.com/OctsvoR/NoMansSky_NerfedBuildCam/releases/download/release/NerfedBuildCam.pak)
